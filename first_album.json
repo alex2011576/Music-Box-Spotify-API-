@@ -1,0 +1,363 @@
+{
+    "added_at": "2021-08-10T16:56:17Z",
+    "album": {
+        "album_type": "album",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                "name": "Free Flow Flava",
+                "type": "artist",
+                "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+            }
+        ],
+        "available_markets": [],
+        "copyrights": [
+            {
+                "text": "2018 FREE FLOW FLAVA",
+                "type": "C"
+            },
+            {
+                "text": "2018 FREE FLOW FLAVA",
+                "type": "P"
+            }
+        ],
+        "external_ids": {
+            "upc": "4933963142257"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/album/769Cuaz5LzdB6nXNV1KhC1"
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/albums/769Cuaz5LzdB6nXNV1KhC1",
+        "id": "769Cuaz5LzdB6nXNV1KhC1",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734ffe1848828972da347d02ff",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024ffe1848828972da347d02ff",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514ffe1848828972da347d02ff",
+                "width": 64
+            }
+        ],
+        "label": "FREE FLOW FLAVA",
+        "name": "Memory Leak",
+        "popularity": 15,
+        "release_date": "2018-08-26",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "tracks": {
+            "href": "https://api.spotify.com/v1/albums/769Cuaz5LzdB6nXNV1KhC1/tracks?offset=0&limit=50",
+            "items": [
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 109008,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/5fkYu4ayAEQKbUnFtNFHSJ"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/5fkYu4ayAEQKbUnFtNFHSJ",
+                    "id": "5fkYu4ayAEQKbUnFtNFHSJ",
+                    "is_local": false,
+                    "name": "Tvzxr Kombvt Killv",
+                    "preview_url": null,
+                    "track_number": 1,
+                    "type": "track",
+                    "uri": "spotify:track:5fkYu4ayAEQKbUnFtNFHSJ"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 85896,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3uQPzAKdvDeSEhs67jNuvF"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/3uQPzAKdvDeSEhs67jNuvF",
+                    "id": "3uQPzAKdvDeSEhs67jNuvF",
+                    "is_local": false,
+                    "name": "Time to Kill",
+                    "preview_url": null,
+                    "track_number": 2,
+                    "type": "track",
+                    "uri": "spotify:track:3uQPzAKdvDeSEhs67jNuvF"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 134735,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/3UUN4hoGha7tVEFNhzptDu"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/3UUN4hoGha7tVEFNhzptDu",
+                    "id": "3UUN4hoGha7tVEFNhzptDu",
+                    "is_local": false,
+                    "name": "Say My Name",
+                    "preview_url": null,
+                    "track_number": 3,
+                    "type": "track",
+                    "uri": "spotify:track:3UUN4hoGha7tVEFNhzptDu"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 75888,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/1XlHDACo4ozJoZbiqDhAF3"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/1XlHDACo4ozJoZbiqDhAF3",
+                    "id": "1XlHDACo4ozJoZbiqDhAF3",
+                    "is_local": false,
+                    "name": "Satsugay",
+                    "preview_url": null,
+                    "track_number": 4,
+                    "type": "track",
+                    "uri": "spotify:track:1XlHDACo4ozJoZbiqDhAF3"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 136944,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/4iFcq59HZRp86eOpl4uJ9h"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/4iFcq59HZRp86eOpl4uJ9h",
+                    "id": "4iFcq59HZRp86eOpl4uJ9h",
+                    "is_local": false,
+                    "name": "Raijin",
+                    "preview_url": null,
+                    "track_number": 5,
+                    "type": "track",
+                    "uri": "spotify:track:4iFcq59HZRp86eOpl4uJ9h"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 153528,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/46HqEvc64UV9NCj6EoApcy"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/46HqEvc64UV9NCj6EoApcy",
+                    "id": "46HqEvc64UV9NCj6EoApcy",
+                    "is_local": false,
+                    "name": "Memory",
+                    "preview_url": null,
+                    "track_number": 6,
+                    "type": "track",
+                    "uri": "spotify:track:46HqEvc64UV9NCj6EoApcy"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 74400,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/30StpcSzpRVopAFx58cMnO"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/30StpcSzpRVopAFx58cMnO",
+                    "id": "30StpcSzpRVopAFx58cMnO",
+                    "is_local": false,
+                    "name": "Kurama",
+                    "preview_url": null,
+                    "track_number": 7,
+                    "type": "track",
+                    "uri": "spotify:track:30StpcSzpRVopAFx58cMnO"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 107040,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7s39poM2qHFOciy0LfMwoi"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7s39poM2qHFOciy0LfMwoi",
+                    "id": "7s39poM2qHFOciy0LfMwoi",
+                    "is_local": false,
+                    "name": "Bloodthirsty Kogan",
+                    "preview_url": null,
+                    "track_number": 8,
+                    "type": "track",
+                    "uri": "spotify:track:7s39poM2qHFOciy0LfMwoi"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 140568,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/0rOo45zbZMgNA2aUkusANo"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/0rOo45zbZMgNA2aUkusANo",
+                    "id": "0rOo45zbZMgNA2aUkusANo",
+                    "is_local": false,
+                    "name": "Kaname Tousen",
+                    "preview_url": null,
+                    "track_number": 9,
+                    "type": "track",
+                    "uri": "spotify:track:0rOo45zbZMgNA2aUkusANo"
+                },
+                {
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/7BvLgunXTcIAkE1uWNbbwQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/7BvLgunXTcIAkE1uWNbbwQ",
+                            "id": "7BvLgunXTcIAkE1uWNbbwQ",
+                            "name": "Free Flow Flava",
+                            "type": "artist",
+                            "uri": "spotify:artist:7BvLgunXTcIAkE1uWNbbwQ"
+                        }
+                    ],
+                    "available_markets": [],
+                    "disc_number": 1,
+                    "duration_ms": 117935,
+                    "explicit": false,
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/track/7CS1NKtEkINStWSOB39gsh"
+                    },
+                    "href": "https://api.spotify.com/v1/tracks/7CS1NKtEkINStWSOB39gsh",
+                    "id": "7CS1NKtEkINStWSOB39gsh",
+                    "is_local": false,
+                    "name": "Itachi Uchiha",
+                    "preview_url": null,
+                    "track_number": 10,
+                    "type": "track",
+                    "uri": "spotify:track:7CS1NKtEkINStWSOB39gsh"
+                }
+            ],
+            "limit": 50,
+            "next": null,
+            "offset": 0,
+            "previous": null,
+            "total": 10
+        },
+        "type": "album",
+        "uri": "spotify:album:769Cuaz5LzdB6nXNV1KhC1"
+    }
+}
