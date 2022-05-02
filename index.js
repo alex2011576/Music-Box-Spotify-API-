@@ -31,7 +31,7 @@ const scopes = [
 var spotifyApi = new SpotifyWebApi({
 	clientId: '729a9ed5a5ab47ac803bd4eca21d3413',
 	clientSecret: '49c3a4a9e23046469d691d51474d7103',
-	redirectUri: 'http://localhost:8888/callback'
+	redirectUri: 'https://boiling-plains-88386.herokuapp.com/callback'
 });
 
 const app = express();
