@@ -29,8 +29,8 @@ const scopes = [
 
 // credentials are optional
 var spotifyApi = new SpotifyWebApi({
-	clientId: '729a9ed5a5ab47ac803bd4eca21d3413',
-	clientSecret: '49c3a4a9e23046469d691d51474d7103',
+	clientId: process.env.CLIENT_ID,
+	clientSecret: process.env.CLIENT_SECRET,
 	redirectUri: 'https://boiling-plains-88386.herokuapp.com/callback'
 });
 
