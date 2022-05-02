@@ -35,8 +35,9 @@ var spotifyApi = new SpotifyWebApi({
 });
 
 const app = express();
+const PORT = process.env.PORT
 
-app.get('/login', (req, res) => {
+app.get('/', (req, res) => {
 	res.redirect(spotifyApi.createAuthorizeURL(scopes));
 });
 
@@ -87,9 +88,9 @@ app.get('/callback', (req, res) => {
 	});
 });
 
-app.listen(8888, () =>
+app.listen(PORT, () =>
 	console.log(
-		'HTTP Server up. Now go to http://localhost:8888/login in your browser.'
+		`HTTP Server up. Now go to http://localhost:${PORT}/login in your browser.`
 	)
 );
 
