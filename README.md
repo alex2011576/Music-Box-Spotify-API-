@@ -21,7 +21,7 @@
 to the ones from your own spotify app.</li>
 <li>
     Use command
-        npm start
+        <b> npm start </b>
     to start node.
 </li>
 <li>Now the app is accessible under the domain adress where you host it.</li>
