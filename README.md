@@ -2,10 +2,18 @@
 <h3 align="center"> Music box is a group project that had to be completed by 2 people within 48 hours. </h3> 
 
 <h3 align="left">Access:</h3>
-
-1. To get access to our Music Box application, you should contact us (so that we could add you to the access list).
-2. Follow the following link: https://boiling-plains-88386.herokuapp.com/ .
-3. Authorise and you will see your albums.
+<ol>
+    <li> To get access to our Music Box application: </li>
+    <dl>
+        <dt>You can contact us (so that we could add you to the access list).</dt>
+        <dt> OR </dd>
+        <dt>You can also use the following spotify account to test the app:</dt>
+        <dd>Login: raginor113@angeleslid.com</dd>
+        <dd>Password: biDnec-cyqjyt-gunka5</dd>
+    </dl>
+    <li>Follow the following link: https://boiling-plains-88386.herokuapp.com/ .</li>
+    <li>Authorise and you will see saved albums of the authorised account.</li>
+</ol>
 
 
 <h3 align="left">Installation:</h3>
