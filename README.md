@@ -6,7 +6,7 @@
     <li> To get access to our Music Box application: </li>
     <dl>
         <dd>You can contact us (so that we could add you to the access list).</dd>
-        <dt> OR </dd>
+        <dd> OR </dd>
         <dd>You can also use the following spotify account to test the app:</dd>
         <dd>Login: raginor113@angeleslid.com</dd>
         <dd>Password: biDnec-cyqjyt-gunka5</dd>
