@@ -9,16 +9,18 @@
 
 
 <h3 align="left">Installation:</h3>
-1. Install node;
-2. Create your own app in https://developer.spotify.com/dashboard/ ;
-3. Change in index.js:
-    -clientId,
+<ol>
+<li>Install node; </li>
+<li>Create your own app in https://developer.spotify.com/dashboard/ ;</li>
+<li>Change in index.js:
 	-clientSecret,
 	-redirectUri,
-to the ones from your own spotify app.
-3. Use command 
-    npm start 
-to start node.
-4. Now the app is accessible under the domain adress where you host it.
+to the ones from your own spotify app.</li>
+<li>
+    Use command
+        npm start
+    to start node.
+</li>
+<li>Now the app is accessible under the domain adress where you host it.</li>
 Just follow the "Access" steps form above. 
 (Don't forget to provide access for each user in you spotify app). 
