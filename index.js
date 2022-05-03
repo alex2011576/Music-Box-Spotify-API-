@@ -90,7 +90,7 @@ app.get('/callback', (req, res) => {
 
 app.listen(PORT, () =>
 	console.log(
-		`HTTP Server up. Now go to http://localhost:${PORT}/login in your browser.`
+		`HTTP Server up. Now go to https://boiling-plains-88386.herokuapp.com/ in your browser.`
 	)
 );
 
