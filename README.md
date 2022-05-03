@@ -1,9 +1,24 @@
-1. Install node
-2. We need to add your spotify email to our dashboard spotify api app to give you access;
-3. Start index.js with command:
-    node index.js
-4. Follow link to the login page that will be provided in terminal;
-    http://localhost:8888/login
-5. Authorize with you login and password and accept terms. (We need that to get access token and retrieve albums);
-6. You will be redirected to Music Box page.
-8. Now you can see your albums :)
+<h1 align="center"> Music Box </h1>
+<h3 align="center"> Music box is a group project that had to be completed by 2 people within 48 hours. </h3> 
+
+<h3 align="left">Access:</h3>
+
+1. To get access to our Music Box application, you should contact us (so that we could add you to the access list).
+2. Follow the following link: https://boiling-plains-88386.herokuapp.com/callback .
+3. Authorise and you will see your albums.
+
+
+<h3 align="left">Installation:</h3>
+1. Install node;
+2. Create your own app in https://developer.spotify.com/dashboard/ ;
+3. Change in index.js:
+    -clientId,
+	-clientSecret,
+	-redirectUri,
+to the ones from your own spotify app.
+3. Use command 
+    npm start 
+to start node.
+4. Now the app is accessible under the domain adress where you host it.
+Just follow the "Access" steps form above. 
+(Don't forget to provide access for each user in you spotify app). 
