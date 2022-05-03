@@ -4,7 +4,7 @@
 <h3 align="left">Access:</h3>
 
 1. To get access to our Music Box application, you should contact us (so that we could add you to the access list).
-2. Follow the following link: https://boiling-plains-88386.herokuapp.com/callback .
+2. Follow the following link: https://boiling-plains-88386.herokuapp.com/ .
 3. Authorise and you will see your albums.
 
 
@@ -13,8 +13,11 @@
 <li>Install node; </li>
 <li>Create your own app in https://developer.spotify.com/dashboard/ ;</li>
 <li>Change in index.js:
-	-clientSecret,
-	-redirectUri,
+    <ul>
+    <li>clientId,</li>
+	<li>clientSecret,</li>
+	<li>redirectUri,</li>
+    </ul>
 to the ones from your own spotify app.</li>
 <li>
     Use command
