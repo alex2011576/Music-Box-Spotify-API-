@@ -35,3 +35,6 @@ to the ones from your own spotify app.</li>
 <li>Now the app is accessible under the domain adress where you host it.</li>
 Just follow the "Access" steps form above. 
 (Don't forget to provide access for each user in your spotify app). 
+</ol>		
+
+https://user-images.githubusercontent.com/84226106/192877686-1f995483-21e0-4dc5-b714-c20a84735c42.mov
